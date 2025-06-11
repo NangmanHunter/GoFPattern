@@ -1,0 +1,11 @@
+- Structural
+- 7Structural
+- StructuralPattern
+- 7StructuralPattern
+- 07StructuralPattern
+- SP
+- 7SP
+- 07SP
+- Structural Pattern
+- 구조패턴
+- 구조 패턴

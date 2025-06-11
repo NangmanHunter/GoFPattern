@@ -1,11 +1,11 @@
-Gang of Four patterns	
-- 5Creational	
+GoFPattern
+- 05CreationalPattern
   - Abstract factory
   - Builder
   - Factory method
   - Prototype
   - Singleton
-- 7Structural	
+- 07StructuralPattern
   - Adapter
   - Bridge
   - Composite
@@ -13,7 +13,7 @@ Gang of Four patterns
   - Facade
   - Flyweight
   - Proxy
-- 11Behavioral	
+- 11BehavioralPattern	
   - Chain of responsibility
   - Command
   - Interpreter
@@ -23,4 +23,5 @@ Gang of Four patterns
   - Observer
   - State
   - Strategy
-  - Template methodVisitor
+  - Template method
+  - Visitor
