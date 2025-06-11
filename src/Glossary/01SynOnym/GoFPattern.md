@@ -1,0 +1,18 @@
+- Design Patterns Elements of Reusable Object-Oriented Software
+- GoFDesignPattern
+- GoFDesign
+- GOFDesignPattern
+- GOFDesign
+- GofDesignPattern
+- GofDesign
+- GoF DesignPattern
+- GoF Pattern
+- GoF Patterns
+- GoFPattern
+- GofPattern
+- GOFPattern
+- GoF
+- GoFDP
+- GoFP
+- GoF Design Pattern
+- Gang of Four patterns	

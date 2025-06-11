@@ -1,1 +1,1 @@
-# GoFDesignPattern
+# GoFPattern

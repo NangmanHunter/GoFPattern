@@ -1,0 +1,26 @@
+Gang of Four patterns	
+- 5Creational	
+  - Abstract factory
+  - Builder
+  - Factory method
+  - Prototype
+  - Singleton
+- 7Structural	
+  - Adapter
+  - Bridge
+  - Composite
+  - Decorator
+  - Facade
+  - Flyweight
+  - Proxy
+- 11Behavioral	
+  - Chain of responsibility
+  - Command
+  - Interpreter
+  - Iterator
+  - Mediator
+  - Memento
+  - Observer
+  - State
+  - Strategy
+  - Template methodVisitor
