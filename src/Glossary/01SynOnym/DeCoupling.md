@@ -1,0 +1,5 @@
+- DeCoupling
+- Decoupling
+- 디커플링
+- 디커플
+- 분리

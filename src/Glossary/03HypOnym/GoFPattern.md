@@ -1,8 +1,8 @@
-GoFPattern
+23GoFPattern
 - 05CreationalPattern
-  - Abstract factory
+  - AbstractFactory
   - Builder
-  - Factory method
+  - FactoryMethod
   - Prototype
   - Singleton
 - 07StructuralPattern
@@ -11,17 +11,17 @@ GoFPattern
   - Composite
   - Decorator
   - Facade
-  - Flyweight
+  - FlyWeight
   - Proxy
 - 11BehavioralPattern	
   - Chain of responsibility
   - Command
-  - Interpreter
+  - InterPreter
   - Iterator
   - Mediator
   - Memento
   - Observer
   - State
   - Strategy
-  - Template method
+  - TemplateMethod
   - Visitor

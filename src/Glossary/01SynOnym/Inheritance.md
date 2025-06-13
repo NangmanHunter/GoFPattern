@@ -1,0 +1,11 @@
+- Inheritance
+- Generalization/Inheritance
+- Generalization
+- 일반화
+- 일반화관계
+- 상속
+- 상속관계
+- is-a
+- 전부
+- 전부사용
+- 전부상속

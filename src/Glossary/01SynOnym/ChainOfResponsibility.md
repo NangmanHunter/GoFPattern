@@ -1,0 +1,6 @@
+- ChainOfResponsibility
+- Chain Of Responsibility
+- Chain of responsibility
+- Chain of Responsibility
+- CoR
+- COR
