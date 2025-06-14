@@ -1,7 +1,9 @@
 # Resource
+- [WikePedia](#wikepedia)
+- [Guru](#guru)
 
 ## WikePedia
-- [WikiPedia▶️DesignPattern](https://en.wikipedia.org/wiki/Design_Patterns)
+- [DesignPattern](https://en.wikipedia.org/wiki/Design_Patterns)
 
 GoFPattern
 - [CreationalPattern](https://en.wikipedia.org/wiki/Creational_pattern)
@@ -36,7 +38,7 @@ GoFPattern
 - ❌InterPreter
 
 Guru
-- [Guru▶️GoFPattern](https://refactoring.guru/ko)
+- [GoFPattern](https://refactoring.guru/ko)
 
 GoFPattern
 - CreationalPattern

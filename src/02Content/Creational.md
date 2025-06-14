@@ -1,4 +1,0 @@
-# Creational
-## FactoryMethod
-
-
