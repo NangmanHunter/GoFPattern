@@ -1,3 +1,0 @@
-# FactoryMethod
-
-

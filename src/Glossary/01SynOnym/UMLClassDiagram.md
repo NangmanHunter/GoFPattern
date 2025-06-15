@@ -1,0 +1,8 @@
+- UMLClassDiagram
+- UMLClassDiagram>>ClassDiagram
+- UML클래스다이어그램
+- 표준클래스다이어그램
+- 클래스다이어그램
+- ClassDiagram
+- 📌ClassDiagram▶️참조만
+- 📌UMLClassDiagram▶️기준

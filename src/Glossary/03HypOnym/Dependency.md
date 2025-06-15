@@ -1,0 +1,12 @@
+Dependency
+- «call2»
+- «create»
+- «derive»
+- «instantiate»
+- «permit»
+- «realize»
+- «refine»
+- «send»
+- «substitute»
+- «trace»
+- «use»

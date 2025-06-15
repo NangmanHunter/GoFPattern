@@ -1,0 +1,8 @@
+- «use»
+- «import»
+- useDependency
+- importDependency
+- ImportDependency
+- UseDependency
+- 📌PackageDiagram▶️«use»
+- 📌ClassDiagram▶️«import»

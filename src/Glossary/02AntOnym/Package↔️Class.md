@@ -1,0 +1,2 @@
+- Package↔️Class
+- PackageDiagram↔️ClassDiagram

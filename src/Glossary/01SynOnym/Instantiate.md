@@ -1,0 +1,8 @@
+- Instantiate
+- instantiate
+- \<\<instantiate>>
+- 인스턴스화
+- 인스턴스
+- 생성
+- 생성하다
+- \<\<create>>
