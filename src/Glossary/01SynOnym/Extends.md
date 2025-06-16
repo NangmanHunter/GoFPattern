@@ -1,0 +1,12 @@
+- Extends
+- Extend
+- extends
+- extend
+- 상속
+- 상속한다
+- extends▶️✅Class-Class
+- extends▶️✅Ineterface-Ineterface
+- extends▶️❌Ineterface-Class
+- Inheritance
+- 상속▶️✅동종
+- 상속▶️❌이종

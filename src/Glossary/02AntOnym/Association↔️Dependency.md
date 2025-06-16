@@ -1,0 +1,2 @@
+- Association↔️Dependency
+- AssociationRelationship↔️DependencyRelationship

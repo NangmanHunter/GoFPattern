@@ -9,3 +9,8 @@
 - 전부
 - 전부사용
 - 전부상속
+- extends
+- Inheritance▶️───▷
+- Inheritance▶️✅Class-Class
+- Inheritance▶️✅Ineterface-Ineterface
+- Inheritance▶️❌Ineterface-Class

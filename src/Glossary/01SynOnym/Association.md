@@ -1,0 +1,14 @@
+- Association
+- 연관
+- 연관관계
+- →
+- 매개변수
+- 매개변수인자
+- 매개변수함수인자
+- 매개인자
+- 📌→ mehtod() ->
+- 📌매개인자 mehtod() 반환인자
+- 📌Association mehtod() Dependecy
+- 📌A mehtod() D
+- 📌AR mehtod() DR
+- 📌AssociationRelationship mehtod() DependecyRelationship

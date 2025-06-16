@@ -1,4 +1,6 @@
 - Dependency
+- DependencyRelationship
+- Dependency Relationship
 - 의존
 - 의존관계
 - 메서드 안에서 잠깐 사용
@@ -11,3 +13,6 @@
 - 점선화살표
 - 점선
 - --->
+- 메소드반환형
+- 메소드반환인자
+- 반환인자

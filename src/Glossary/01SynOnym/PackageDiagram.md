@@ -2,4 +2,3 @@
 - Package Diagram
 - PackageDiagram
 - PackageDiagram▶️«import»ㆍ«access»ㆍ«merge»ㆍ«dependency»
-- [WikiPedia▶️PackageDiagram](https://en.wikipedia.org/wiki/Package_diagram)

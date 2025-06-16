@@ -137,6 +137,10 @@ ExampleCode
 - [Guru▶️ExampleCode▶️Java](https://refactoring.guru/design-patterns/java)
 
 
+
+## PackageDiagram
+- [WikiPedia▶️PackageDiagram](https://en.wikipedia.org/wiki/Package_diagram)
+
 ## ClassDiagram
 - [WikiPedia▶️01ClassDiagram](https://en.wikipedia.org/wiki/Class_diagram)
 - [WikiPedia▶️02Relationship](https://en.wikipedia.org/wiki/Class_diagram#Relationships)
